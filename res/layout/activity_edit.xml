@@ -33,7 +33,7 @@
         android:layout_below="@+id/etEditItem"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:onClick=""
+        android:onClick="EditedItem"
         android:text="Save" />
 
 </RelativeLayout>
